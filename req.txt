@@ -1,0 +1,9 @@
+numpy==1.13.3
+tensorflow-gpu==1.4.0
+tensorflow-tensorboard
+Keras==2.0.8
+opencv-python==3.4.0.12
+Flask==1.1.4
+CUDNN v8
+CUDA 8.0.61
+opencv-python
