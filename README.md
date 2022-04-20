@@ -1,5 +1,11 @@
 # GUI_Predictor
 
+NOTE :
+web_gui_predictor is the directory that gives a GUI experience in predicting the model using Flask API.
+[Optional]
+gui_train_predict folder is used for training the model.You can use your own pre-trained model.Once done, paste it into the bin folder.
+
+
 To make the following codes work download the dependencies present in req.txt file [Preferably in a new virtual env].
 
 Download the dataset from here :
